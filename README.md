@@ -5,7 +5,7 @@
 
 <p align = "left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmanur-karatas" alt=" esmanur-karatas" /></a> </p>
 
-- 🌱 Şu anda **Python** öğreniyorum
+- 🌱 Şu anda **C# ASP.NET** öğreniyorum
 
 - 💬 Bana **Html, Css, C#, .net, Java** hakkında sor
 
