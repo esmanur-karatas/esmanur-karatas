@@ -1,27 +1,61 @@
-<h1 align="center">Merhaba 👋, ben Esmanur Karataş</h1>
+# 👋 Welcome to My GitHub Profile!
 
+Hello! I'm a passionate developer and technology enthusiast, constantly exploring new tools and techniques to solve real-world problems through software. Here's a bit more about me:
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=esmanur-karatas&label=Profile%20views&color=0e75b6&style=flat" alt = "esmanur-karatas" /> </p>
+---
 
-<p align = "left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmanur-karatas" alt=" esmanur-karatas" /></a> </p>
+## 🚀 About Me
 
-- 🌱 Şu anda **C# ASP.NET** öğreniyorum
+- 🎓 **Education:** Management Information Systems student at Anadolu University and Computer Programming graduate from Fırat University.
+- 💼 **Experience:**
+  - Web Developer and Robotics Coding Educator at İpek Yolu International Center for Child and Youth Studies.
+  - Former Technical Assistant and Mentor at Kodluyoruz.
+- 🛠️ **Skills:**
+  - Programming Languages: C#, JavaScript, Python.
+  - Frameworks & Tools: .NET, Selenium, SignalR, Entity Framework.
+  - Web Development: HTML, CSS, WordPress, RESTful APIs.
+  - Software Testing: Manual Testing, Test Automation.
+- 🌟 **Interests:** Software development, automation, robotics education, and building user-centric solutions.
 
-- 💬 Bana **Html, Css, C#, .net, Java** hakkında sor
+---
 
-- 📫 Nasıl ulaşılır? ben **esmanurkaratas0@gmail.com**
+## 🛠️ Projects
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
-<p align="left">
-<a href = "https://linkedin.com/in/esmanur-karatas" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile" -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "esmanur-karatas" height = "30" genişlik = "40" /></a>
-</p>
+Here are some highlights of my recent projects:
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align = "left"> <a href = "https://getbootstrap.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt = "bootstrap" width = "40" height = "40"/> </a> <a href = "https://www.w3schools.com /cs/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt = "csharp " genişlik = "40" yükseklik = "40"/> </a> <a href = "https://www.w3schools.com/css/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="css3" width = "40" height = "40"/> </a> <a href = "https://dotnet.microsoft.com/" target = "_blank" rel = "noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt = "dotnet" width = "40" height = "40"/ > </a> <a href = "https://www.figma.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/figma /figma-simgesi.svg" alt = "figma" width = "40" height = "40"/> </a> <a href = "https://git-scm.com/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40"/> </a> <a href = "https://www.w3.org/html/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/ simgeler/html5/html5-original-wordmark.svg" alt = "html5" width = "40" height = "40"/> </a> <a href = "https://www.java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java" genişlik ="40" height = "40"/> </a> <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank" rel = "noreferrer" > <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40"/> < /a> <a href = "https://www.microsoft.com/en-us/sql-server" target = "_blank" rel = "noreferrer"> <img src = "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt = "mssql" width = "40" height = "40"/> </a> <a href = "https://www.mysql. com/" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = " mysql" width = "40" height = "40"/> </a> <a href = "https://postman.com" target = "_blank" rel = "noreferrer"> <img src = "https:/ /www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt = "postman" width = "40" height = "40"/> </a> <a href = "https://www.python .org" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" genişlik ="40" yükseklik = "40"/> </a> </p>
+- **[Selenium Test Automation](https://github.com/yourusername/SeleniumProjects_02):** Automation tests for demo websites like Amazon and Facebook.
+- **Freelance Website Design:** Custom designs using WordPress and Wix for businesses.
+- **Robotics Coding Education:** Teaching Scratch programming and algorithm design to children.
+- **Desktop Application Development:** Solutions for beauty center management using C#.
 
-<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=esmanur-karatas&show_icons=true&locale=en&layout=compact" alt = "esmanur- karatas" /></p>
+---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=esmanur-karatas&show_icons=true&locale=en" alt ="esmanur-karatas" /></p>
+## 📚 Articles & Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmanur-karatas&" alt= "esmanur-karataş" /></p>
+- 📝 [Medium Articles](https://medium.com/@yourusername): Exploring topics like Unity, manual software testing, and more.
+- 💬 Active contributor to open-source projects and coding communities.
 
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🖥️ [Portfolio Website](https://yourportfolio.com)
+- 📧 Email: yourname@example.com
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 💡 Fun Fact
+
+When I'm not coding, you'll find me exploring new places, experimenting with recipes, or learning new skills to expand my horizons. 😊
+
+---
+
+### Thanks for visiting! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
