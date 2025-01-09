@@ -12,7 +12,7 @@
 
 - 🌱 Şu anda **C# ASP.NET** öğreniyorum
 
-- 💬 Bana **HTML, CSS, C#, .NET, Java** hakkında sor
+- 💬 Bana **HTML, CSS, C#, .NET, Java, Selenium, WordPress** hakkında sor
 
 - 📫 Bana nasıl ulaşılır? **esmanurkaratas0@gmail.com**
 
@@ -63,7 +63,13 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  </a>
 </p>
 
 <p>
@@ -75,5 +81,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmanur-karatas&" alt="esmanur-karatas" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmanur-karatas" alt="esmanur-karatas" />
 </p>
