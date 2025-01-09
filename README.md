@@ -79,7 +79,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esmanur-karatas&show_icons=true&locale=en" alt="esmanur-karatas" />
 </p>
-
+https://camo.githubusercontent.com/0712b361f524ebeddcd324552f0ca3d3d04de5663f8e9f03435f25c5eab49118/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d65736d616e75722d6b61726174617326
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmanur-karatas" alt="esmanur-karatas" />
 </p>
